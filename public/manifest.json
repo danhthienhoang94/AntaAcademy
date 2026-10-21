@@ -1,0 +1,16 @@
+{
+  "name": "Học viện Kế toán - Tài chính Anta",
+  "short_name": "Anta Academy",
+  "description": "Bệ phóng sự nghiệp Kế toán - Thuế - Quản trị Tài chính từ Anta Group",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#082554",
+  "theme_color": "#082554",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuDnx4J1xan0fq0fBzK6Pvrtq6Dx9x7pG65pRL648A2iF8vViuqKlIPQpsYjJWKgX0PTokYYRo6qSYnvFLeeLMzcSA0WoLiiszZlQRhm5S93uxuvaw2OKo0FiXLNHwiBCkvX0DPOtG5CUtgYen8kw-rLnyAhGLt2leDADzIZ0u4PKWOX41nr1J2uYX1B7mB0lncq0RihX6GHMssTkgKR4LrBpt9fibnnwHT3JciiISWvT5E9eK_HG0I1lQXbwfkjojcA9cs",
+      "sizes": "192x192 512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Học viện Kế toán - Tài chính Anta",
+  "description": "Bệ phóng cho sự nghiệp Kế toán. Học thực chất • Làm vững vàng. Đào tạo kế toán thực hành, thuế chuyên sâu và quản trị tài chính doanh nghiệp từ Tập đoàn Anta Group.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
